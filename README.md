@@ -1,11 +1,10 @@
 
 <h1 align="center">
-
   <br>
   Scala
   <br>
 </h1>
-<h4 align="center">This is a kotlin repository with multiple projects to help dev community.</h4>
+<h4 align="center">This is a Scala project.</h4>
 <p align="center">
   <a href="#key-features">Key Features</a> •
   <a href="#dependencies">Dependencies</a> •
